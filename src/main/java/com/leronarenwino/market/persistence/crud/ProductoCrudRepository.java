@@ -1,7 +1,6 @@
 package com.leronarenwino.market.persistence.crud;
 
 import com.leronarenwino.market.persistence.entity.Producto;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
